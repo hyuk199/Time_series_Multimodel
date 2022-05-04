@@ -2,7 +2,8 @@
 
 Set your config at train.py config dictionary
 
-3 Model: Conv1D-LSTM, LSTM, BiLSTM
+## 3 Model
+Conv1D-LSTM, LSTM, BiLSTM
 
 ## Dataset
 1. [Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone Data Set](https://archive.ics.uci.edu/ml/datasets/Geo-Magnetic+field+and+WLAN+dataset+for+indoor+localisation+from+wristband+and+smartphone)
