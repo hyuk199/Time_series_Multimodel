@@ -6,17 +6,6 @@ Set your config at train.py config dictionary
 
 Dataset
 
-
-Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone Data Set 
-
-link: https://archive.ics.uci.edu/ml/datasets/Geo-Magnetic+field+and+WLAN+dataset+for+indoor+localisation+from+wristband+and+smartphone
-
-
-Household Electric Power Consumption (Careful: have null data. So I put mean data at null)
-
-link: https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
-
-
-jena_climate_2009_2016
-
-link: https://www.kaggle.com/datasets/stytch16/jena-climate-2009-2016
+1. [Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone Data Set](https://archive.ics.uci.edu/ml/datasets/Geo-Magnetic+field+and+WLAN+dataset+for+indoor+localisation+from+wristband+and+smartphone)
+2. [Household Electric Power Consumption](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set) (Careful: have null data. So I put mean data at null)
+3. [jena_climate_2009_2016](https://www.kaggle.com/datasets/stytch16/jena-climate-2009-2016)
